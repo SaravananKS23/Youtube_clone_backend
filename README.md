@@ -1,10 +1,7 @@
-Hello, My Friends  
+I have tried lot of time but i cant able to deploy it was showing lot of error.
 
-To use this application, 
+But the youtube clone is working fine in my localhost.
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+I have did my best!
 
-
+Thank You!
